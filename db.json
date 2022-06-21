@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": "bbf4556c-2640-4ad8-b856-79617e77a081",
+      "name": "Irshad",
+      "age": "15000",
+      "address": "Howrah",
+      "department": "mech",
+      "salary": "17000",
+      "maritalStatus": true
+    },
+    {
+      "id": "8c6f1fb6-8bbd-4b32-b0e9-28ec1d910ba2",
+      "name": "Irs",
+      "age": "18",
+      "address": "Howra",
+      "department": "cse",
+      "salary": "317000",
+      "maritalStatus": true
+    },
+    {
+      "id": "a665666d-eece-40d7-9810-2fb5edb565cb",
+      "name": "Sameer",
+      "age": "25",
+      "address": "Kolkata",
+      "department": "mech",
+      "salary": "20000",
+      "maritalStatus": false
+    }
+  ]
+}
